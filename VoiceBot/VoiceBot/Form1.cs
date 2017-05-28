@@ -16,6 +16,7 @@ namespace VoiceBot
     public partial class Form1 : Form
     {
         //xzxsadaczzc
+        //2222222
         SpeechSynthesizer s = new SpeechSynthesizer();
 
         Boolean wake = true;
