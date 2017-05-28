@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VoiceBot",
+    "\\VoiceBot\\VoiceBot"
   ],
   "PreviewInSolutionExplorer": false
 }
